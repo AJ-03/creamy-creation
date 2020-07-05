@@ -469,7 +469,9 @@ h3{
     .brand {
         font-size: 1.2rem;
     }
-
+.nav-item{
+    font-size: 2.5rem ;
+}
     .heading {
         font-size: 4rem;
         padding-bottom: 30px;
